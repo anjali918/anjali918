@@ -70,7 +70,7 @@
   <a href="mailto:anjalibista2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="#">
+  <a href="https://www.anjalib.com.np">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
   </a>
 </p>
@@ -87,13 +87,6 @@ If you like my projects, give them a ⭐ on GitHub!
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/anjali918/anjali918/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## ✨ Fun Fact
 I enjoy designing UI as much as coding logic 💻🎨
