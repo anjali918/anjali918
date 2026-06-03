@@ -39,14 +39,15 @@
 
 ## 📊 Github Overview
 
-<h2 align="center">📌 GitHub Overview</h2>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjali918&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjali918&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjali918&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjali918&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali918&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ## 🚀 Projects
