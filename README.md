@@ -37,14 +37,17 @@
 
 ---
 
-## 📊 TECH STACK
+## 📊 Github Overview
 
-<h3 align="center">🚀 Tech Stack</h3>
+<h2 align="center">📌 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode" />
+  <img src="https://komarev.com/ghpvc/?username=anjali918&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
----
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anjali918&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ## 🚀 Projects
 - 🌐 Portfolio Website  
